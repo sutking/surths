@@ -1,5 +1,5 @@
     body   {
-        background-image: url("./surths/bgpic.jpg");
+        background-image: url("surths/bgpic.jpg");
         z-index: -100;
         background-repeat:no-repeat;
         background-attachment:fixed;
